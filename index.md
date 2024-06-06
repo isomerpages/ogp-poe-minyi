@@ -41,7 +41,7 @@ sections:
       title: Best places to eat, drink, chill
       subtitle: Things to do in Singapore
       id: textcards
-      description: Put this in your list!
+      description: Inspo for your new adventure!
       cards:
         - title: Best Hangout Place
           description: Marina Barrage
