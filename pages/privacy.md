@@ -4,11 +4,9 @@ permalink: /privacy/
 variant: tiptap
 ---
 <h3><strong>Government Agency Privacy Statement</strong></h3>
-<ol>
-<li>
-<p>This Government Agency Privacy Statement (“<strong>Privacy Statement</strong>”)
-must be read in conjunction with the Terms of Use that accompany the applicable
-service you are requesting from us (the “<strong>Service</strong>”)</p>
+<p>This Government Agency Privacy Statement (“Privacy Statement”) must be
+read in conjunction with the Terms of Use that accompany the applicable
+service you are requesting from us (the “Service”)</p>
 <h3><strong>General</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -31,7 +29,9 @@ login to the Service. If such cookies are rejected, you might not be able
 to use the Service.</p>
 </li>
 <li>
-<p>Please see the Annex for any additional terms or information.</p>
+<p>Please see the Annex for any additional terms or information.
+<br>
+</p>
 <h3><strong>Uses of data</strong></h3>
 </li>
 <li>
@@ -179,8 +179,6 @@ same meaning as its definition in the Personal Data Protection Act 2012
 </li>
 <li>
 <p>Company name</p>
-</li>
-</ol>
 </li>
 </ol>
 </li>
