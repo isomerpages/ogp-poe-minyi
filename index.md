@@ -60,5 +60,5 @@ sections:
       subtitle: Current Affairs
       description: Our new Prime Minister's speech
       button: See video
-      url: /faq/
+      url: https://master.d2ldrtk41s5az1.amplifyapp.com/speeches-by-pm-wong/
 ---
