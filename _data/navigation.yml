@@ -2,9 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
   - title: Speeches
     collection: speeches
+  - title: What It Means
+    url: " https://master.d2ldrtk41s5az1.amplifyapp.com/what-it-means/"
