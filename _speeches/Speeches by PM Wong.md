@@ -10,7 +10,6 @@ description: ""
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dkSn4LlxXiU?si=ehqz3aluoJrhnA2k"></iframe>
 </div>
 <p></p>
-<p></p>
 <p><strong>PM Wong's May Day Rally Speech</strong>
 </p>
 <div class="iframe-wrapper">
