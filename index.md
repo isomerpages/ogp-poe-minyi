@@ -7,11 +7,12 @@ permalink: /
 notification: 🔈 Ochazuke. Fukuoka Japan. 1st June 2024
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Min Yi Lee
+      subtitle: Multidisciplinary designer. Digital illustrator. Content creator .
+        Craft artist. Tea person. Movie enthusiast.
+      background: /images/cat.png
+      button: View my LInkedin
+      url: https://www.linkedin.com/in/minyilee/
       key_highlights:
         - title: Best hangout Place
           description: Marina Barrage
