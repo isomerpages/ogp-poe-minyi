@@ -11,7 +11,7 @@ sections:
       subtitle: Multidisciplinary designer. Digital illustrator. Content creator .
         Craft artist. Tea person. Movie enthusiast.
       background: /images/cat.png
-      button: View my LInkedin
+      button: View my Linkedin
       url: https://www.linkedin.com/in/minyilee/
   - announcements:
       title: Announcements
